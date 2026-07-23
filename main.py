@@ -42,7 +42,3 @@ while True:
         print("Exiting...")
         print("Done!, Thank you for using My Expense Tracker")
 
-        # print("Breakdown:")
-        # for category, amount in breakdown.items():
-        #
-        #     print(f"{category}: {amount}")
